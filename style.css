@@ -1,0 +1,45 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+h3
+{
+    margin-top: 120px;
+    text-align: center;
+    font-size: 25px;
+}
+.cal
+{
+    margin-top: 10px;
+    margin-left: 450px;
+    font-size: 25px;
+    border: 2px solid black;
+    width: 500px;
+    padding: 40px;
+    background-color: white;
+    color: black;
+}
+input
+{
+    width: 350px;
+    height: 30px;
+    border: none;
+    border-bottom: 2px solid red;
+    font-size: 15px;
+}
+button
+{
+    width: 150px;
+    height: 25px;
+    border: 1px solid black;
+    font-size: 15px;
+    background-color: white;
+}
